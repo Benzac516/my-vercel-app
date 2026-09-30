@@ -8,7 +8,7 @@ export default function Home() {
           Deployed on Vercel
         </p>
         <h1 className="text-4xl font-semibold tracking-tight text-black sm:text-5xl dark:text-zinc-50">
-          Hello from my Vercel app
+          Hello from the terminal
         </h1>
         <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
           Next.js on Vercel with auto-deploys from GitHub. Edit{" "}
